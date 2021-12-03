@@ -1,0 +1,9 @@
+header{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(86, 164, 179, 0.849),rgba(86, 164, 179, 0.849)) , url(../images/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.author img{
+    margin-top: -70px;
+}
